@@ -1,6 +1,10 @@
-.idea
+# mlflow and wandb directories
 mlruns
 wandb
+outputs
+
+# Other user definitions
+.idea
 .ipynb_checkpoints
 *.env
 .venv
