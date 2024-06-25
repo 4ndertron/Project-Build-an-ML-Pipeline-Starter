@@ -16,3 +16,4 @@ dependencies:
   - pip:
       - wandb==0.13.9
       - databricks_cli
+      - pandas-profiling
