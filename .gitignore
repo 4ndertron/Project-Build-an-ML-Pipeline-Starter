@@ -1,0 +1,7 @@
+.idea
+mlruns
+wandb
+.ipynb_checkpoints
+*.env
+.venv
+venv
