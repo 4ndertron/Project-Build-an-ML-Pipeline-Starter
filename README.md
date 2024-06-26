@@ -8,6 +8,7 @@ In this project you will build such a pipeline.
 
 ## Table of contents
 
+- [Links](#Links)
 - [Preliminary steps](#preliminary-steps)
   * [Fork the Starter Kit](#fork-the-starter-kit)
   * [Create environment](#create-environment)
@@ -15,6 +16,11 @@ In this project you will build such a pipeline.
   * [The configuration](#the-configuration)
   * [Running the entire pipeline or just a selection of steps](#Running-the-entire-pipeline-or-just-a-selection-of-steps)
   * [Pre-existing components](#pre-existing-components)
+
+## Links
+
+* [Weights & Balances Project](https://wandb.ai/andertron/nyc_airbnb)
+* [Production Repo](https://github.com/4ndertron/Project-Build-an-ML-Pipeline-Starter)
 
 ## Preliminary steps
 ### Fork the Starter kit
